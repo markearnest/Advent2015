@@ -8,8 +8,18 @@
       <sourceFolder url="file://$MODULE_DIR$/02/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/03/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
