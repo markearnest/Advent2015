@@ -1,3 +1,5 @@
+package org.mystikos.aoc2015.day03;
+
 import java.awt.*;
 import java.io.BufferedReader;
 import java.io.FileReader;

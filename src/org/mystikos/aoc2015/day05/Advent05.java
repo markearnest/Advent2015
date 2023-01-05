@@ -1,3 +1,5 @@
+package org.mystikos.aoc2015.day05;
+
 import org.jetbrains.annotations.NotNull;
 import java.io.BufferedReader;
 import java.io.FileReader;

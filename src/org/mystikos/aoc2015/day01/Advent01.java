@@ -1,9 +1,11 @@
+package org.mystikos.aoc2015.day01;
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 public class Advent01 {
     public static void main(String[] args) {
-        String fileName = "01/input.txt";
+        String fileName = "input/input01.txt";
         BufferedReader reader;
         try {
             reader = new BufferedReader(new FileReader(fileName));

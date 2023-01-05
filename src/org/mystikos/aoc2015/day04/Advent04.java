@@ -1,3 +1,5 @@
+package org.mystikos.aoc2015.day04;
+
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 public class Advent04 {
