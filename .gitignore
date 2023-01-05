@@ -1,3 +1,2 @@
-**/input.txt
-# Project exclude paths
-/out/
+.idea/jpa-buddy.xml
+/input/
